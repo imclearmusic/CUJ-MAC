@@ -1,1 +1,1 @@
-zsdqeefw
+from wave import *
